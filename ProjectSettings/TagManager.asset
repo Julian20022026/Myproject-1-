@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SUELO
+  - BajarVida
+  - Bajar Vida
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Suelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Suelo
+    uniqueID: 3941182189
+    locked: 0
+  - name: "C\xE8sped"
+    uniqueID: 3025686003
+    locked: 0
+  - name: Player
+    uniqueID: 1367207723
+    locked: 0
+  - name: Tombos Motorizados
+    uniqueID: 4059275867
+    locked: 0
